@@ -1,5 +1,5 @@
 # imgdownload
-A really bad script to download all images from a website. I was bored.
+A really bad Python script to download all images from a website. I was bored.
 
 ## Why you should use it (what works)
 - You shoudln't
