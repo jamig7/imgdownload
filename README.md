@@ -20,3 +20,4 @@ pip install bs4
 ```python
 python3 imgdownload.py [url] [path]
 ```
+E.g `python3 imgdownload.py http://my-web.site/gallery/ website-pics
